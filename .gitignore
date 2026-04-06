@@ -6,6 +6,7 @@ __pycache__/
 .qdrant/
 main_modern.py
 main_modern_v2.py
+main_modern_v2_clean_async.py
 main_teacher_style.py
 main_v0.py
 main_v1.py
