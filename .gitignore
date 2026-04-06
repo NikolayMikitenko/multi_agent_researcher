@@ -1,0 +1,13 @@
+.env
+.env2
+.python-version
+.vscode/
+__pycache__/
+.qdrant/
+main_modern.py
+main_modern_v2.py
+main_teacher_style.py
+main_v0.py
+main_v1.py
+main_v2.py
+main_v3.py
